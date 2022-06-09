@@ -1,6 +1,6 @@
 # Segundo proyecto en React
 
-Todo app - **[devChallenges](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5)**
+Todo app - [devChallenges](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5)
 
 ## Tecnologias utilizadas
 
@@ -10,9 +10,9 @@ Todo app - **[devChallenges](https://devchallenges.io/challenges/hH6PbOHBdPm6otz
 
 - Vite
 
+---
 
-
-
+![](./src/images/preview.png)
 
 ---
 
