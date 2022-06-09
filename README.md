@@ -12,7 +12,7 @@ Todo app - [devChallenges](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2
 
 ---
 
-![](./src/images/preview.png)
+![](./src/media/preview.png)
 
 ---
 
