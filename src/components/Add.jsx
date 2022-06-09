@@ -20,7 +20,7 @@ const Add = () => {
         className="w-4/5 p-4 border border-slate-300 rounded-2xl"
       />
       <button 
-        className="w-32 bg-blue-600 rounded-xl text-white ml-2"
+        className="first-letter:uppercase w-32 bg-blue-600 rounded-xl text-white ml-2"
         onClick={(e) => checkInputContent(e)}
       >
         add
