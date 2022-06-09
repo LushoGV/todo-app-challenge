@@ -31,7 +31,7 @@ const List = ({ isCompletedPage }) => {
   }, [items]);
 
   return (
-    <section className="w-full py-1">
+    <section className="w-full py-1 px-2">
       <ul className="w-full flex flex-col">
         {listContent != null &&
           listContent.map((element, index) => {
@@ -40,7 +40,7 @@ const List = ({ isCompletedPage }) => {
               className={isCompletedPage ? "flex flex-wrap items-center justify-start py-2" : "flex flex-wrap items-center py-2"}
               key={index}> 
                 <input
-                  className="w-6 h-6 mr-1"
+                  className="hover:cursor-pointer w-6 h-6 mr-1"
                   type="checkbox"
                   checked={element.status == true ? true : false}
                   onChange={() => changeStateItem(element.id)}

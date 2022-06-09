@@ -20,7 +20,7 @@ const Add = () => {
         className="w-4/5 p-4 border border-slate-300 rounded-2xl"
       />
       <button 
-        className="first-letter:uppercase w-32 bg-blue-600 rounded-xl text-white ml-2"
+        className="hover:bg-blue-700 first-letter:uppercase w-32 bg-blue-600 rounded-xl text-white ml-2 font-medium"
         onClick={(e) => checkInputContent(e)}
       >
         add
